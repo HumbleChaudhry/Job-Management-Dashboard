@@ -1,5 +1,7 @@
 # Job Management Dashboard
 
+A simple job management dashboard allowing users to view existing jobs, add new ones, edit jobs or delete them.
+
 ## Setup Instructions
 
 1. Clone the repository:
