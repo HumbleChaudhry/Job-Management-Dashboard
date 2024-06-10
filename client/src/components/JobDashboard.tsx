@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { getJobs, addJob, updateJob, deleteJob } from '../api/jobsApi';
-import './JobDashboard.css'; // Importing the CSS file for styling
+import './JobDashboard.css';
 
 const JobDashboard: React.FC = () => {
   const [jobs, setJobs] = useState<any[]>([]);
